@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1482269198 source:e:\software engineering\portfolio c++\main.cpp
+	<iostream>
+	"System.h"
+	"Reading.h"
+	"Sensor.h"
+	"Button.h"
+	"Display.h"
+	"Memory.h"
+
+1482267934 e:\software engineering\portfolio c++\include\system.h
+
+1482268264 e:\software engineering\portfolio c++\include\reading.h
+	<string>
+
+1482268202 e:\software engineering\portfolio c++\include\sensor.h
+	<string>
+	"sensor.h"
+
+1481814522 e:\software engineering\portfolio c++\include\button.h
+
+1482268088 e:\software engineering\portfolio c++\include\display.h
+
+1482269550 e:\software engineering\portfolio c++\include\memory.h
+	"memory.h"
+
